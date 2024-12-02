@@ -1,5 +1,15 @@
-# 💫 About Me:
-## Hi there 👋<br><br>Welcome to my GitHub profile, where creativity meets engineering excellence!<br><br>- 🔭 I’m currently building **next-gen web experiences** using **React**, **Next.js**, and **Tailwind CSS**, and exploring the synergy between **AI** and **frontend development**.  <br>- 🌱 As an engineering enthusiast, I’m diving deep into **AI integrations**, **IoT systems**, and **hardware-software interfaces**.  <br>- 🤝 I’m eager to collaborate on projects that blend **cutting-edge AI algorithms** with **intuitive frontend designs** or involve innovative **hardware solutions**.  <br>- 💬 Ask me about **UI/UX design**, **AI-driven interfaces**, or **electronics prototyping**—I’d love to share insights and learn from you!  <br>- ⚡ Fun fact: I bridge the gap between **frontend finesse** and **hardware precision**—one line of code and one circuit at a time.  <br><br>Let’s innovate together! 🚀<br>
+## Hi there 👋
+
+Welcome to my GitHub profile, where creativity meets engineering excellence!
+
+- 🔭 I’m currently building **next-gen web experiences** using **React**, **Next.js**, and **Tailwind CSS**, and exploring the synergy between **AI** and **frontend development**.  
+- 🌱 As an engineering enthusiast, I’m diving deep into **AI integrations**, **IoT systems**, and **hardware-software interfaces**.  
+- 🤝 I’m eager to collaborate on projects that blend **cutting-edge AI algorithms** with **intuitive frontend designs** or involve innovative **hardware solutions**.  
+- 💬 Ask me about **UI/UX design**, **AI-driven interfaces**, or **electronics prototyping**—I’d love to share insights and learn from you!  
+- ⚡ Fun fact: I bridge the gap between **frontend finesse** and **hardware precision**—one line of code and one circuit at a time.  
+
+Let’s innovate together! 🚀
+<br>
 
 
 ## 🌐 Socials:

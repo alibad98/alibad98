@@ -1,33 +1,101 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ali Badawi</h1>
+<p align="center">
+  <a href="https://github.com/alibad98"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;System+Architecture+%26+Distributed+Systems;Next.js%2C+Node.js%2C+%26+TypeScript;Building+Multi-Tenant+SaaS+Platforms" alt="Typing SVG"></a>
+</p>
 
-Welcome to my GitHub profile, where creativity meets engineering excellence!
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-- 🔭 I’m currently building **next-gen web experiences** using **React**, **Next.js**, and **Tailwind CSS**, and exploring the synergy between **AI** and **frontend development**.  
-- 🌱 As an engineering enthusiast, I’m diving deep into **AI integrations**, **IoT systems**, and **hardware-software interfaces**.  
-- 🤝 I’m eager to collaborate on projects that blend **cutting-edge AI algorithms** with **intuitive frontend designs** or involve innovative **hardware solutions**.  
-- 💬 Ask me about **UI/UX design**, **AI-driven interfaces**, or **electronics prototyping**—I’d love to share insights and learn from you!  
-- ⚡ Fun fact: I bridge the gap between **frontend finesse** and **hardware precision**—one line of code and one circuit at a time.  
+<table width="100%" style="border: none; padding: 10px">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
+      <p align="justify">
+        <b>Hello there!</b> I'm <b>Ali Badawi</b>, a Senior Full-Stack Engineer with 4+ years of experience architecting and building production web applications. 
+        I specialize in designing scalable systems using Next.js, NestJS, and Turborepo, with a strong focus on Domain-Driven Design and Feature-Sliced Design.
+        From setting up robust API infrastructures to delivering seamless multi-tenant platforms, I bridge the gap between frontend finesse and backend architecture.
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <!-- Cool Coding GIF -->
+      <img src="https://i.makeagif.com/media/8-18-2023/tuSsml.gif" width="300" alt="Coding animation">
+    </td>
+  </tr>
+</table>
 
-Let’s innovate together! 🚀
+<h3 align="center" style="margin-top: 15px;">
+  <b><i> ❝ Architecting the future, one system at a time ❞</i></b>
+</h3>
+
 <br>
 
+<picture>
+<img src="https://images.weserv.nl/?url=https://github.com/alibad98.png?v=4&h=200&w=200&fit=cover&mask=circle" align="right" width="200">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alibroid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AliBadawi98) 
+```js
+import { Engineer } from "backend-and-frontend";
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alibad98&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alibad98&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alibad98&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+new Engineer({
+  name: "Ali Badawi",
+  title: "Senior Full Stack Engineer",
+  email: "aayman11111aa@gmail.com",
+  focus: ["System Architecture", "Turborepo", "SaaS Platforms", "Next.js"],
+}).introduce();
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alibad98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=alibad98&icon=3&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
+</h3>
+<br>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,nodejs,nestjs,express,postgres,redis,docker,git,github,sentry,vitest,figma&perline=9" />
+  </a>
+</p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<h3 align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Analytics</b>
+</h3>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://github.com/alibad98">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=alibad98&show_icons=true&hide_border=true&theme=dark&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/alibad98">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alibad98&text_color=FFFFFF&bg_color=0d1117&theme=dark&title_color=38B2AC&langs_count=8&layout=compact&hide_border=true"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/alibad98">
+    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=alibad98&show_icons=true&theme=dark&hide_border=true&background=0d1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC"/>
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- FOOTER WITH ANIMATED EMOJIS -->
+
+<div align="center">
+  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTY0MmQwMDNmNDQ0MWYwNGYwODI3ZDNkODU1MGM5OWFkYTQxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jnhXd7KT8UTk5WIgiV/giphy.gif" width="30px"> Connect With Me </h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alibadawi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aayman11111aa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=alibad98&label=Profile%20views&color=38B2AC&style=for-the-badge" alt="alibad98" />
+</div>
